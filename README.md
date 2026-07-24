@@ -1,6 +1,6 @@
 # gmk67sts v1.5.1
 
-Time synchronization and lighting control for GMK67 mechanical keyboard.
+Time synchronization and lighting control for GMK67S mechanical keyboard.
 
 **Latest version:** 1.5.1 | [Changelog](docs/CHANGELOG.md)
 
